@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+
 <h1 align="center">Hi 👋, I'm Mustafa Albayrak</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 <img align="right" alt = "Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ2ejJzd2owdzlnaXN3anVtZWVmdXptZTdodXdzM29vaHp2czdjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif"> 
