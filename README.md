@@ -24,7 +24,7 @@
   <a href="https://discord.gg/ustadmustafa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
   </a>
-  <a href="https://discord.gg/ustadmustafa" target="_blank">
+  <a href="https://www.youtube.com/@mustafaalbayrak8957" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
   </a>
 </p>
